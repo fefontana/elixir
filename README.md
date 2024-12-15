@@ -1,14 +1,21 @@
 # elixir
-Elixir fundamentals on Erlang VM. Type iex linux command for interactive mode, or load you source code with $elixir simple.exs
+Elixir fundamentals on Erlang VM.
+https://hexdocs.pm/elixir/introduction.html
 
+Type:
+
+i@loveyou:~/coding$iex
+
+(linux command for interactive mode), or load you source code with:
+
+i@loveyou:~/coding$elixir simple.exs
 
 Interactive Elixir (1.12.2) - press Ctrl+C to exit (type h() ENTER for help)
+
 iex(1)> 1+48
 49
 
-
 iex(3)> h()
-
                                   IEx.Helpers                                   
 
 Welcome to Interactive Elixir. You are currently seeing the documentation for
